@@ -1,0 +1,11 @@
+# Config
+config.php
+
+#Ignorar pastas
+/.env
+/vendor/
+/node_modules
+
+# Ignorar arquivos específicos
+.DS_Store
+Thumbs.db
